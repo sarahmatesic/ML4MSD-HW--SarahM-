@@ -1,0 +1,68 @@
+{
+    "0": {
+        "duration_seconds": 1068,
+        "Fermi_energy": 4.4123,
+        "total_energy": -7810.34686852,
+        "error": false
+    },
+    "1": {
+        "duration_seconds": 820,
+        "Fermi_energy": 3.9282,
+        "total_energy": -1739.56011153,
+        "error": false
+    },
+    "2": {
+        "duration_seconds": 15819,
+        "Fermi_energy": 4.784,
+        "total_energy": -3281.64980796,
+        "error": false
+    },
+    "3": {
+        "duration_seconds": 2572,
+        "Fermi_energy": 4.0634,
+        "total_energy": -1640.78164983,
+        "error": false
+    },
+    "4": {
+        "duration_seconds": 1830,
+        "Fermi_energy": 3.391,
+        "total_energy": -7221.11126964,
+        "error": false
+    },
+    "5": {
+        "duration_seconds": 3864,
+        "Fermi_energy": 5.9806,
+        "total_energy": -9064.83850682,
+        "error": false
+    },
+    "6": {
+        "duration_seconds": 3480,
+        "Fermi_energy": 6.0032,
+        "total_energy": -8188.67781941,
+        "error": false
+    },
+    "7": {
+        "duration_seconds": 35115,
+        "Fermi_energy": 5.4489,
+        "total_energy": -6709.75170068,
+        "error": false
+    },
+    "8": {
+        "duration_seconds": 2115,
+        "Fermi_energy": 2.0572,
+        "total_energy": -2642.59090695,
+        "error": false
+    },
+    "9": {
+        "duration_seconds": null,
+        "Fermi_energy": null,
+        "total_energy": null,
+        "error": true
+    },
+    "10": {
+        "duration_seconds": 12932,
+        "Fermi_energy": 6.9222,
+        "total_energy": -7743.56591467,
+        "error": false
+    }
+}
